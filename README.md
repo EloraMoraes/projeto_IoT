@@ -22,7 +22,7 @@ Este projeto visa monitorar a temperatura corporal utilizando um sensor LM35, um
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu_usuario/IoT_Temperature_Monitor.git
+    git clone https://github.com/EloraMoraes/projeto_IoT
     ```
 2. Siga as instruções em `documentation/project_description.md` para configurar o hardware e software.
 3. Carregue o código Arduino em `src/arduino_code/temperature_monitor.ino` no seu Arduino UNO.
