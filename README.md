@@ -16,7 +16,6 @@ Este projeto visa monitorar a temperatura corporal utilizando um sensor LM35, um
 - `src/`: Contém o código fonte do Arduino e o script Python para publicação MQTT.
 - `hardware/`: Descrição e datasheets do hardware utilizado.
 - `documentation/`: Documentação detalhada do projeto, incluindo descrição do hardware, interfaces e protocolos, e resultados de testes.
-- `images/`: Imagens do circuito e do protótipo.
 
 ## Como Reproduzir
 
